@@ -26,5 +26,8 @@ I would be willing to work on the following projects for money
 * AI reading tools
 * Sociology of AIwebpages
 
+
+## About
+
 If you are looking at this on github, see the webpage [here](https://talwrii.github.io/webpage/)
 
