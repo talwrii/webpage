@@ -40,5 +40,5 @@ I would be willing to work on the following projects for money
 
 ## About
 
-If you are looking at this on github, see the webpage [here](https://talwrii.github.io/webpage/)
+If you are looking at this on [github](https://github.com/talwrii/webpage), see the webpage [here](https://talwrii.github.io/webpage/)
 
