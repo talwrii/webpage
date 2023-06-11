@@ -8,12 +8,23 @@ Pay me some money here (or tell me something you might like me to do in exchange
 
 Projects that I would work on for money.
 
+
+## Useful reading
+
+
+
+### Unfinished
+
+* [Troubleshooting git submodules](https://talwrii.github.io/git-submodules-troubleshooting/)
+
+
 ## Coding commissions
 
 I would be willing to work on the following projects for money
 
 * AI features in emacs (open or closed source)
 * AI language learning tools
+* AI command line helper tools
 * AI reading tools (open or closed tools)
 * Your emacs feature
 * Integrating emacs with notion
